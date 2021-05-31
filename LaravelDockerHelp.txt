@@ -1,0 +1,16 @@
+
+
+
+extension=php_pdo_mysql.dll
+
+
+remember/useful: 
+
+php artisan cache:clear
+php artisan config:clear
+php artisan view:clear
+npm run dev
+php artisan key:generate 
+php artisan migrate 
+
+php artisan route:clear
