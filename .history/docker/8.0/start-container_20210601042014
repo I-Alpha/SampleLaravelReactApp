@@ -15,4 +15,7 @@ if [ $# -gt 0 ];then
 else
     /usr/bin/supervisord -c /etc/supervisor/conf.d/supervisord.conf
 fi
-  
+ 
+while ! mysqladmin ping -h"database" --silent; do
+  sleep 1
+done
