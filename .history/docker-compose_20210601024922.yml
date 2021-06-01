@@ -42,7 +42,6 @@ services:
 networks:
     sail:
         driver: bridge
-        name: sail-net
 volumes:
     sailmysql:
         driver: local

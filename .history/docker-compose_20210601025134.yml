@@ -42,7 +42,7 @@ services:
 networks:
     sail:
         driver: bridge
-        name: sail-net
+    name: my-global-net
 volumes:
     sailmysql:
         driver: local
