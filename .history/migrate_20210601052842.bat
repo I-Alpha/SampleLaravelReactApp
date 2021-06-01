@@ -1,0 +1,1 @@
+docker exec samplelaravelreactapp php artisan migrate
