@@ -21,7 +21,7 @@ services:
         depends_on:
                 mysql:
                     condition: service_healthy
-                    
+                    vphp artisan migrate
     mysql:
         image: 'mysql:8.0'
         container_name: laravelmysql

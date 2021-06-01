@@ -19,9 +19,9 @@ services:
         networks:
             - sail
         depends_on:
+            depends_on:
                 mysql:
                     condition: service_healthy
-                    
     mysql:
         image: 'mysql:8.0'
         container_name: laravelmysql

@@ -35,6 +35,7 @@ class CounterEventController extends Controller
          $counterEvents=CounterEvent::all();
 
         if (count($counterEvents)==0) return view('counter');
+
         return view('history',compact('counterEvents'));
     } 
   
