@@ -1,0 +1,1 @@
+docker exec -it samplelaravelt_1 sh

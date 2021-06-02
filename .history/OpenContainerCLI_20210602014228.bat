@@ -1,0 +1,1 @@
+cmd docker-compose exec -it samplelaravelapp sh 

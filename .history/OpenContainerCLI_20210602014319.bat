@@ -1,0 +1,1 @@
+terminal -e docker-compose exec -it samplelaravelapp 

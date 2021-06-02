@@ -1,0 +1,1 @@
+cmddocker-compose exec -it samplelaravelapp wsl

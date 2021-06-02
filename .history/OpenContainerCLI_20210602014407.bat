@@ -1,0 +1,1 @@
+docker exec -it samplelaravelapp_laravel.ttest_1 sh
