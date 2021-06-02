@@ -1,4 +1,4 @@
-An Sample Laravel 8 webapp using React as front end and Docker with  a few dependencies 
+A Sample Laravel 8 webapp using React as front end and Docker with a few dependencies 
 
 Prerequisites
 -----
