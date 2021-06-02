@@ -1,0 +1,1 @@
+docker attach output samplelaravelreactapp_laravel.test_1 log 

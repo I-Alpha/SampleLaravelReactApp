@@ -1,0 +1,1 @@
+docker attach samplelaravelreactapp_laravel.test_1  >> Docker/Attached_logfile.txt

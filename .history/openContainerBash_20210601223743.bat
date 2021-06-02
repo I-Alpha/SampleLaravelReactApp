@@ -1,0 +1,1 @@
+docker logs container > /tmp/stdout.log  samplelaravelreactapp_laravel.test_1  /bin/bash

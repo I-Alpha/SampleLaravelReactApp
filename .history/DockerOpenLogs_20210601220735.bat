@@ -1,0 +1,1 @@
+ docker logs with –follow.

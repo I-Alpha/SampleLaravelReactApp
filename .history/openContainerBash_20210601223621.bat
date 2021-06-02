@@ -1,0 +1,1 @@
+docker run -i -t  samplelaravelreactapp_laravel.test_1  /bin/bash

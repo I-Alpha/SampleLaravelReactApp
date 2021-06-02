@@ -1,0 +1,1 @@
+docker logs -f test |tee output.log

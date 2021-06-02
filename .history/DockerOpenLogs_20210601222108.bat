@@ -1,0 +1,1 @@
+docker attach stdout samplelaravelreactapp_laravel.test_1  

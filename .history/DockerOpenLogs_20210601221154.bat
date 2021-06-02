@@ -1,0 +1,1 @@
+docker ex -f test |tee %1

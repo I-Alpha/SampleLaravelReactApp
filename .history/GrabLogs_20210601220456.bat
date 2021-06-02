@@ -1,0 +1,1 @@
+scp json.log  samplelaravelreactapp_laravel.test_1 log

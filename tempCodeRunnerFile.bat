@@ -1,0 +1,1 @@
+ts > DockerLogs/fullmetrics.json
