@@ -3153,21 +3153,6 @@ var postCounterEventInfo = function postCounterEventInfo(data) {
   };
 };
 
-var getCounterEventInfo = function getCounterEventInfo(data) {
-  console.log("getting data- ");
-  axios({
-    method: 'get',
-    url: '/CounterRecords',
-    headers: {
-      "Content-Type": "application/json"
-    }
-  }).then(function (response) {
-    console.log(response);
-  })["catch"](function (error) {
-    console.log(error);
-  });
-};
-
 var Counter = /*#__PURE__*/function (_Component) {
   _inherits(Counter, _Component);
 
